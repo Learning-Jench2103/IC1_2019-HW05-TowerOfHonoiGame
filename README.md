@@ -10,6 +10,6 @@ Rules:
 
 There are 3 mode for player:
 
-	1.Normally plays the game
-	2.Automatically show the best steps by graphing
-	3.Show the best steps by texts
+	1.Normally plays the game.
+	2.Automatically show the best steps by graphing.
+	3.Show the best steps by texts.
